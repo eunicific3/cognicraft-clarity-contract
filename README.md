@@ -1,0 +1,1 @@
+# cognicraft-clarity-contract
